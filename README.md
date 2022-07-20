@@ -1,2 +1,1 @@
-proyecto pagina web para recetas
-Se supone que ya debo saber manejar html, git y github
+This is my odin project for a webpage about recipes, it supposed that i have to apply all the knowledge that i learn in html, git, github lesssons.
