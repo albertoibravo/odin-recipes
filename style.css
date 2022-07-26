@@ -1,0 +1,16 @@
+h1 {
+    color:rgb(10, 202, 20); 
+    font-size: 48px;
+    background-color: blue; 
+    font-family:sans-serif;
+    text-align: center
+}
+ul {
+    color:blueviolet;font-size: 60px;background-color: aquamarine;
+}
+body {
+    background-color: pink;
+}
+img {
+    width: 300px; height: auto;
+}
