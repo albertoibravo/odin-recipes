@@ -1,0 +1,17 @@
+body {
+    background-color:blue;
+}
+h1{
+    color:black;
+    background-color: aquamarine;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#imagen {
+    width: 25%; height: auto;
+}
+ul, ol {
+    font-size: 28px;
+    background-color: white;
+    color: brown;
+}
